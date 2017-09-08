@@ -47,7 +47,7 @@ text-decoration: none;}
 
 .main
   {position: relative;
-  top: 119px;
+  top: 113px;
   text-align: center;}
 
 .main h2
@@ -60,7 +60,7 @@ text-decoration: none;}
   text-transform: uppercase;}
 
 .btn-main
-  {background-color: rgba(144,144,144,0.5);
+  {background-color: rgba(144,144,144,0.4);
   color: #fff;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
